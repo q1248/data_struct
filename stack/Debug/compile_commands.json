@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/aknightive/CLionProjects/stack/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/stack/head -g -std=gnu++17 -o CMakeFiles/stack.dir/main.cpp.o -c /home/aknightive/CLionProjects/stack/main.cpp",
+  "file": "/home/aknightive/CLionProjects/stack/main.cpp"
+},
+{
+  "directory": "/home/aknightive/CLionProjects/stack/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/stack/head -g -std=gnu++17 -o CMakeFiles/stack.dir/src/stack.cpp.o -c /home/aknightive/CLionProjects/stack/src/stack.cpp",
+  "file": "/home/aknightive/CLionProjects/stack/src/stack.cpp"
+}
+]
