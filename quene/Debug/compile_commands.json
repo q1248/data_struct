@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/aknightive/CLionProjects/quene/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/quene/head -g -std=gnu++17 -o CMakeFiles/quene.dir/main.cpp.o -c /home/aknightive/CLionProjects/quene/main.cpp",
+  "file": "/home/aknightive/CLionProjects/quene/main.cpp"
+},
+{
+  "directory": "/home/aknightive/CLionProjects/quene/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/quene/head -g -std=gnu++17 -o CMakeFiles/quene.dir/src/quene.cpp.o -c /home/aknightive/CLionProjects/quene/src/quene.cpp",
+  "file": "/home/aknightive/CLionProjects/quene/src/quene.cpp"
+}
+]

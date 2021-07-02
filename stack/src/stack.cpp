@@ -15,7 +15,6 @@ void stack::show() {
 	cout << "The count of the stack is " << value.size()
 	     << " and the values is :\n";
 
-	for (int i = 0; i < value.size(); i++) {
-		cout << i << " ";
-	}
+	for (auto i : value) cout << i << " ";
 }
+

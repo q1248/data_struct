@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/quene.dir/main.cpp.o CMakeFiles/quene.dir/src/quene.cpp.o -o quene 
