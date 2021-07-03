@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/aknightive/CLionProjects/sequence_table/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/sequence_table/head -g -std=gnu++17 -o CMakeFiles/sequence_table.dir/main.cpp.o -c /home/aknightive/CLionProjects/sequence_table/main.cpp",
+  "file": "/home/aknightive/CLionProjects/sequence_table/main.cpp"
+},
+{
+  "directory": "/home/aknightive/CLionProjects/sequence_table/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/sequence_table/head -g -std=gnu++17 -o CMakeFiles/sequence_table.dir/src/sequence_table.cpp.o -c /home/aknightive/CLionProjects/sequence_table/src/sequence_table.cpp",
+  "file": "/home/aknightive/CLionProjects/sequence_table/src/sequence_table.cpp"
+}
+]
