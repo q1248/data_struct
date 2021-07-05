@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/aknightive/CLionProjects/static_link_list/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/static_link_list/head -g -std=gnu++17 -o CMakeFiles/static_link_list.dir/main.cpp.o -c /home/aknightive/CLionProjects/static_link_list/main.cpp",
+  "file": "/home/aknightive/CLionProjects/static_link_list/main.cpp"
+},
+{
+  "directory": "/home/aknightive/CLionProjects/static_link_list/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/static_link_list/head -g -std=gnu++17 -o CMakeFiles/static_link_list.dir/src/static_link_list.cpp.o -c /home/aknightive/CLionProjects/static_link_list/src/static_link_list.cpp",
+  "file": "/home/aknightive/CLionProjects/static_link_list/src/static_link_list.cpp"
+}
+]
