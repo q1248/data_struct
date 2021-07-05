@@ -1,0 +1,3 @@
+/home/aknightive/CLionProjects/list/Debug/CMakeFiles/rebuild_cache.dir
+/home/aknightive/CLionProjects/list/Debug/CMakeFiles/edit_cache.dir
+/home/aknightive/CLionProjects/list/Debug/CMakeFiles/list.dir
