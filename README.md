@@ -9,5 +9,7 @@ A student who preparing for the postgraduate exaims ,this is just a notes repo t
 
 # Page Categrates
 
- 1. sequery_table
-
+1. stack
+2. sequence table
+3. list
+4. static link list
