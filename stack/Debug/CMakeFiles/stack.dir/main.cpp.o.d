@@ -128,9 +128,4 @@ CMakeFiles/stack.dir/main.cpp.o: \
  /usr/include/c++/11.1.0/bits/basic_ios.tcc \
  /usr/include/c++/11.1.0/bits/ostream.tcc /usr/include/c++/11.1.0/istream \
  /usr/include/c++/11.1.0/bits/istream.tcc \
- /home/aknightive/CLionProjects/stack/head/stack.h \
- /usr/include/c++/11.1.0/vector \
- /usr/include/c++/11.1.0/bits/stl_uninitialized.h \
- /usr/include/c++/11.1.0/bits/stl_vector.h \
- /usr/include/c++/11.1.0/bits/stl_bvector.h \
- /usr/include/c++/11.1.0/bits/vector.tcc
+ /home/aknightive/CLionProjects/stack/head/stack.h

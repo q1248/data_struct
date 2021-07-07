@@ -129,8 +129,4 @@ CMakeFiles/stack.dir/src/stack.cpp.o: \
  /usr/include/c++/11.1.0/bits/locale_facets.tcc \
  /usr/include/c++/11.1.0/bits/basic_ios.tcc \
  /usr/include/c++/11.1.0/bits/ostream.tcc /usr/include/c++/11.1.0/istream \
- /usr/include/c++/11.1.0/bits/istream.tcc /usr/include/c++/11.1.0/vector \
- /usr/include/c++/11.1.0/bits/stl_uninitialized.h \
- /usr/include/c++/11.1.0/bits/stl_vector.h \
- /usr/include/c++/11.1.0/bits/stl_bvector.h \
- /usr/include/c++/11.1.0/bits/vector.tcc
+ /usr/include/c++/11.1.0/bits/istream.tcc

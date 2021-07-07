@@ -179,12 +179,7 @@ CMakeFiles/stack.dir/main.cpp.o: ../main.cpp \
   /usr/include/c++/11.1.0/bits/ostream.tcc \
   /usr/include/c++/11.1.0/istream \
   /usr/include/c++/11.1.0/bits/istream.tcc \
-  ../head/stack.h \
-  /usr/include/c++/11.1.0/vector \
-  /usr/include/c++/11.1.0/bits/stl_uninitialized.h \
-  /usr/include/c++/11.1.0/bits/stl_vector.h \
-  /usr/include/c++/11.1.0/bits/stl_bvector.h \
-  /usr/include/c++/11.1.0/bits/vector.tcc
+  ../head/stack.h
 
 CMakeFiles/stack.dir/src/stack.cpp.o: ../src/stack.cpp \
   /usr/include/stdc-predef.h \
@@ -364,21 +359,10 @@ CMakeFiles/stack.dir/src/stack.cpp.o: ../src/stack.cpp \
   /usr/include/c++/11.1.0/bits/basic_ios.tcc \
   /usr/include/c++/11.1.0/bits/ostream.tcc \
   /usr/include/c++/11.1.0/istream \
-  /usr/include/c++/11.1.0/bits/istream.tcc \
-  /usr/include/c++/11.1.0/vector \
-  /usr/include/c++/11.1.0/bits/stl_uninitialized.h \
-  /usr/include/c++/11.1.0/bits/stl_vector.h \
-  /usr/include/c++/11.1.0/bits/stl_bvector.h \
-  /usr/include/c++/11.1.0/bits/vector.tcc
+  /usr/include/c++/11.1.0/bits/istream.tcc
 
 
 ../src/stack.cpp:
-
-/usr/include/c++/11.1.0/bits/vector.tcc:
-
-/usr/include/c++/11.1.0/bits/stl_bvector.h:
-
-/usr/include/c++/11.1.0/bits/stl_uninitialized.h:
 
 ../head/stack.h:
 
@@ -422,8 +406,6 @@ CMakeFiles/stack.dir/src/stack.cpp.o: ../src/stack.cpp \
 
 /usr/include/sys/select.h:
 
-/usr/include/c++/11.1.0/vector:
-
 /usr/include/bits/uintn-identity.h:
 
 /usr/include/bits/byteswap.h:
@@ -463,8 +445,6 @@ CMakeFiles/stack.dir/src/stack.cpp.o: ../src/stack.cpp \
 /usr/include/c++/11.1.0/bits/locale_facets.h:
 
 /usr/include/c++/11.1.0/bits/hash_bytes.h:
-
-/usr/include/c++/11.1.0/bits/stl_vector.h:
 
 /usr/include/c++/11.1.0/cwctype:
 
