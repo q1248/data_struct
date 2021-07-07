@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# About this repo
 
-You can use the [editor on GitHub](https://github.com/q1248/data_struct/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Some data_struct code ,writen by cpp;
+Attention! Some code may use cpp11;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# how to coppile the file 
 
-### Markdown
+1. Download cmake 
+2. mkdir Build
+3. cd Build
+4. cmake ..
+5. make
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Page Categrates
 
-```markdown
-Syntax highlighted code block
+1. stack
+2. sequence table
+3. list
+4. static link list
 
-# Header 1
-## Header 2
-### Header 3
+# About me 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/q1248/data_struct/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A student who preparing for the postgraduate exaims ,this is just a notes repo to let some concepts become the code;
