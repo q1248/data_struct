@@ -3,9 +3,13 @@
 Some data_struct code ,writen by cpp;
 Attention! Some code may use cpp11;
 
-# About me 
+# how to coppile the file 
 
-A student who preparing for the postgraduate exaims ,this is just a notes repo to let some concepts become the code;
+1. Download cmake 
+2. mkdir Build
+3. cd Build
+4. cmake ..
+5. make
 
 # Page Categrates
 
@@ -13,3 +17,7 @@ A student who preparing for the postgraduate exaims ,this is just a notes repo t
 2. sequence table
 3. list
 4. static link list
+
+# About me 
+
+A student who preparing for the postgraduate exaims ,this is just a notes repo to let some concepts become the code;
