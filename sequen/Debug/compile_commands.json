@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/aknightive/CLionProjects/sequen/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/sequen/head -g -std=gnu++17 -o CMakeFiles/sequen.dir/main.cpp.o -c /home/aknightive/CLionProjects/sequen/main.cpp",
+  "file": "/home/aknightive/CLionProjects/sequen/main.cpp"
+},
+{
+  "directory": "/home/aknightive/CLionProjects/sequen/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/sequen/head -g -std=gnu++17 -o CMakeFiles/sequen.dir/src/sequen.cpp.o -c /home/aknightive/CLionProjects/sequen/src/sequen.cpp",
+  "file": "/home/aknightive/CLionProjects/sequen/src/sequen.cpp"
+}
+]
