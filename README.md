@@ -17,7 +17,7 @@ Attention! Some code may use cpp11;
 2. sequence table
 3. list
 4. static link list
-
+5. ......
 # About me 
 
 A student who preparing for the postgraduate exaims ,this is just a notes repo to let some concepts become the code;
