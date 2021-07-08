@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/aknightive/CLionProjects/listquene/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/listquene/head -g -std=gnu++17 -o CMakeFiles/listquene.dir/main.cpp.o -c /home/aknightive/CLionProjects/listquene/main.cpp",
+  "file": "/home/aknightive/CLionProjects/listquene/main.cpp"
+},
+{
+  "directory": "/home/aknightive/CLionProjects/listquene/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/listquene/head -g -std=gnu++17 -o CMakeFiles/listquene.dir/src/listquene.cpp.o -c /home/aknightive/CLionProjects/listquene/src/listquene.cpp",
+  "file": "/home/aknightive/CLionProjects/listquene/src/listquene.cpp"
+}
+]

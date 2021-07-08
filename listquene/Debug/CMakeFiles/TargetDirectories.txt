@@ -1,0 +1,3 @@
+/home/aknightive/CLionProjects/listquene/Debug/CMakeFiles/rebuild_cache.dir
+/home/aknightive/CLionProjects/listquene/Debug/CMakeFiles/edit_cache.dir
+/home/aknightive/CLionProjects/listquene/Debug/CMakeFiles/listquene.dir

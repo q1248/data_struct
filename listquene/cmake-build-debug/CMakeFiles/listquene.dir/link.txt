@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/listquene.dir/main.cpp.o CMakeFiles/listquene.dir/src/listquene.cpp.o -o listquene 

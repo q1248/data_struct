@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../head/listquene.h
+iostream
+-
+
+/home/aknightive/CLionProjects/listquene/src/listquene.cpp
+listquene.h
+/home/aknightive/CLionProjects/listquene/src/listquene.h
+
