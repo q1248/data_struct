@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/aknightive/CLionProjects/SharedStack/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/SharedStack/head -g -std=gnu++17 -o CMakeFiles/SharedStack.dir/main.cpp.o -c /home/aknightive/CLionProjects/SharedStack/main.cpp",
+  "file": "/home/aknightive/CLionProjects/SharedStack/main.cpp"
+},
+{
+  "directory": "/home/aknightive/CLionProjects/SharedStack/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/SharedStack/head -g -std=gnu++17 -o CMakeFiles/SharedStack.dir/src/SharedStack.cpp.o -c /home/aknightive/CLionProjects/SharedStack/src/SharedStack.cpp",
+  "file": "/home/aknightive/CLionProjects/SharedStack/src/SharedStack.cpp"
+}
+]

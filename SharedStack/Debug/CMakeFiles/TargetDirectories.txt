@@ -1,0 +1,3 @@
+/home/aknightive/CLionProjects/SharedStack/Debug/CMakeFiles/rebuild_cache.dir
+/home/aknightive/CLionProjects/SharedStack/Debug/CMakeFiles/edit_cache.dir
+/home/aknightive/CLionProjects/SharedStack/Debug/CMakeFiles/SharedStack.dir
