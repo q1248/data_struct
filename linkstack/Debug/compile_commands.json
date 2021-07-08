@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/aknightive/CLionProjects/linkstack/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/linkstack/head -g -std=gnu++17 -o CMakeFiles/linkstack.dir/main.cpp.o -c /home/aknightive/CLionProjects/linkstack/main.cpp",
+  "file": "/home/aknightive/CLionProjects/linkstack/main.cpp"
+},
+{
+  "directory": "/home/aknightive/CLionProjects/linkstack/Debug",
+  "command": "/usr/bin/c++  -I/home/aknightive/CLionProjects/linkstack/head -g -std=gnu++17 -o CMakeFiles/linkstack.dir/src/linkstack.cpp.o -c /home/aknightive/CLionProjects/linkstack/src/linkstack.cpp",
+  "file": "/home/aknightive/CLionProjects/linkstack/src/linkstack.cpp"
+}
+]

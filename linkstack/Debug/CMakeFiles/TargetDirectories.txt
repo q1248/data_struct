@@ -1,0 +1,3 @@
+/home/aknightive/CLionProjects/linkstack/Debug/CMakeFiles/rebuild_cache.dir
+/home/aknightive/CLionProjects/linkstack/Debug/CMakeFiles/edit_cache.dir
+/home/aknightive/CLionProjects/linkstack/Debug/CMakeFiles/linkstack.dir

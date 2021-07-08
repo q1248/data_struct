@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/linkstack.dir/main.cpp.o CMakeFiles/linkstack.dir/src/linkstack.cpp.o -o linkstack 
